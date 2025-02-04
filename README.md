@@ -1,4 +1,4 @@
-# Lab: Word Frequency Analysis Across Multiple Languages
+# Project: Word Frequency Analysis Across Multiple Languages
 
 ## Overview
 This project focuses on analyzing word frequency distributions across four languages: **English, French, Russian, and Spanish**. The primary objective is to process text data, clean it, lemmatize words, and perform frequency analysis to investigate patterns such as **Zipf’s law**.
